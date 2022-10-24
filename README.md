@@ -1,8 +1,9 @@
 ### Profile:
 - 👋 Hi, I’m @tiffany-dumaire
-- 👀 I’m interested in IT, management, music and games. 
-- 🌱 I’m currently learning IT & Management at Polytech Montpellier (France). 
-- 💞️ I’m not looking to collaborate for the moment. 
+- ❤️ I’m interested in IT, management, music and games. 
+- 📖 I’m currently learning IT & Management at Polytech Montpellier (France). 
+<!-- 💞️ I’m not looking to collaborate for the moment. -->
+- 🔎 I'm looking to collaborate with an IT company as an intern!
 - 📫 To reach me, send a message at tiffany.dumaire@etu.umontpellier.fr
 
 ### Tools:
